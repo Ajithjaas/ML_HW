@@ -1,50 +1,37 @@
 # ML_HW
 ## Table of Contents
-1. [General Info](#general-info)
-2. [Technologies](#technologies)
-3. [Installation](#installation)
-4. [Collaboration](#collaboration)
-5. [FAQs](#faqs)
-### General Info
+1. Installation
+2. [Homework 1](#Homework-1)
+3. [Homework 2](#Homework-2)
+4. [Homework 3](#Homework-3)
+5. [Homework 4](#Homework-4)
+6. [Homework 5](#Homework-5)
+7. Copyrights
+
+### Installation
 ***
-Write down general information about your project. It is a good idea to always put a project status in the readme file. This is where you can add it. 
-### Screenshot
-![Image text](https://www.united-internet.de/fileadmin/user_upload/Brands/Downloads/Logo_IONOS_by.jpg)
-## Technologies
+### Homework-1
 ***
-A list of technologies used within the project:
-* [Technology name](https://example.com): Version 12.3 
-* [Technology name](https://example.com): Version 2.34
-* [Library name](https://example.com): Version 1234
-## Installation
+This homework is based on the concept of ID3 algorithm.
+## Homework-2
 ***
-A little intro about the installation. 
-```
-$ git clone https://example.com
-$ cd ../path/to/the/file
-$ npm install
-$ npm start
-```
-Side information: To use the application in a special environment use ```lorem ipsum``` to start
-## Collaboration
+This homework is based on the concept of linear regression algorithm.
+## Homework-3
 ***
-Give instructions on how to collaborate with your project.
-> Maybe you want to write a quote in this part. 
-> Should it encompass several lines?
-> This is how you do it.
-## FAQs
+This homework is based on the concept of logistic regression algorithm.
+
+## Homework-4
 ***
-A list of frequently asked questions
-1. **This is a question in bold**
-Answer to the first question with _italic words_. 
-2. __Second question in bold__ 
-To answer this question, we use an unordered list:
-* First point
-* Second Point
-* Third point
-3. **Third question in bold**
-Answer to the third question with *italic words*.
-4. **Fourth question in bold**
+This homework is based on the concept of Neural Network algorithm. Extra credits are provided for the addition problem of MNIST data set solution.
+
+## Homework-5
+***
+This homework is based on the concept of Support Vector Machines.
+
+## Copyrights
+***
+This is the property of Worcester Polytechnic Institute authored by Prof. Kyumin Lee for the course of CS539 - Machine Learning. The material is to be used solely for educational purpose and is not to be shared or release for any commercial or profitable gains.
+
 | Headline 1 in the tablehead | Headline 2 in the tablehead | Headline 3 in the tablehead |
 |:--------------|:-------------:|--------------:|
 | text-align left | text-align center | text-align right |
