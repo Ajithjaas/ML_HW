@@ -8,9 +8,9 @@
 6. [Homework 5](#Homework-5)
 7. Copyrights
 
-### Installation
+## Installation
 ***
-### Homework-1
+## Homework-1
 ***
 This homework is based on the concept of ID3 algorithm.
 ## Homework-2
