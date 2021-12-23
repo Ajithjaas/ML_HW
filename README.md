@@ -31,7 +31,3 @@ This homework is based on the concept of Support Vector Machines.
 ## Copyrights
 ***
 This is the property of Worcester Polytechnic Institute authored by Prof. Kyumin Lee for the course of CS539 - Machine Learning. The material is to be used solely for educational purpose and is not to be shared or release for any commercial or profitable gains.
-
-| Headline 1 in the tablehead | Headline 2 in the tablehead | Headline 3 in the tablehead |
-|:--------------|:-------------:|--------------:|
-| text-align left | text-align center | text-align right |
