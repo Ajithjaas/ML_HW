@@ -15,7 +15,7 @@
 This homework is based on the concept of ID3 algorithm.
 
 <p align="center" width="100%">
-    <img width="33%" src=./results/result_1.png> 
+    <img width="33%" src=./results/result_1.PNG> 
 </p>
 
 ## Homework-2
@@ -23,24 +23,24 @@ This homework is based on the concept of ID3 algorithm.
 This homework is based on the concept of linear regression algorithm.
 
 <p align="center" width="100%">
-    <img width="33%" src=./results/result_2.png> 
+    <img width="33%" src=./results/result_2.PNG> 
 </p>
 
 ## Homework-3
 ***
 This homework is based on the concept of logistic regression algorithm.
 <p align="center" width="100%">
-    <img width="33%" src=./results/result_3.png> 
+    <img width="33%" src=./results/result_3.PNG> 
 </p>
 
 ## Homework-4
 ***
 This homework is based on the concept of Neural Network algorithm. Extra credits are provided for the addition problem of MNIST data set solution.
 <p align="center" width="100%">
-    <img width="33%" src=./results/result_4_prob1.png> 
+    <img width="33%" src=./results/result_4_prob1.PNG> 
 </p>
 <p align="center" width="100%">
-    <img width="33%" src=./results/result_4_prob2.png> 
+    <img width="33%" src=./results/result_4_prob2.PNG> 
 </p>
 
 ## Homework-5
@@ -48,7 +48,7 @@ This homework is based on the concept of Neural Network algorithm. Extra credits
 This homework is based on the concept of Support Vector Machines.
 
 <p align="center" width="100%">
-    <img width="33%" src=./results/result_5.png> 
+    <img width="33%" src=./results/result_5.PNG> 
 </p>
 
 ## Copyrights
