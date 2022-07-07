@@ -1,6 +1,6 @@
 # ML_HW
 ## Table of Contents
-1. Installation
+1. Software and Tools
 2. [Homework 1](#Homework-1)
 3. [Homework 2](#Homework-2)
 4. [Homework 3](#Homework-3)
@@ -8,7 +8,7 @@
 6. [Homework 5](#Homework-5)
 7. Copyrights
 
-## Installation
+## Software and Tools
 ***
 ## Homework-1
 ***
